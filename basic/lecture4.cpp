@@ -23,5 +23,6 @@ int main() {
     int b = 3.14; // 그냥 3으로 나온다.
 
     cout << a << " " << b << endl;
+    
 
 }
